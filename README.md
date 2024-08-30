@@ -1,6 +1,18 @@
 # Personal Projects
 
-## <b>Last Stand</b> (One week game jam, June 2024)
+## <b>Forever Nugget</b> (3 day game jam, August 2024) (Unity3D, C#)
+![](https://img.itch.zone/aW1hZ2UvMjg5MzcxOS8xNzMwODM3Ni5qcGc=/original/rtmiqc.jpg)
+
+- Made with a team of 4 other women for Women Game Jam 2024!
+- A silly point and click game about trying to escape an annoying infinite loop
+- I was the sole programmer for this project
+  
+[itch.io page](https://chimera-crafts.itch.io/forever-nugget)
+  
+[Github repo](https://github.com/ana-damnjanovic/wgj2024)
+
+
+## <b>Last Stand</b> (One week game jam, June 2024) (Unity3D, C#)
 ![](https://img.itch.zone/aW1nLzE2NDEzMTIzLnBuZw==/315x250%23c/62Pu0C.png)
   
   - I made this with my sister for a game jam, we placed 18th out of over 1000 submissions in the Fun rating!
@@ -11,7 +23,7 @@
   
 [Github repo](https://github.com/ana-damnjanovic/gamedevtvjam)
 
-## <b>Dust Souls</b> (10 day game jam, July 2020)
+## <b>Dust Souls</b> (10 day game jam, July 2020) (Core Game Engine, Lua)
 <img src="https://manticoreprod-ms.azureedge.net/screenshots/19e189674c924e389097ddc795b1b563_3_nupNxlSQDGQOkNyZINQm1_EBA6ECA0D39A0CA8BAECC3578B81EB83065D9A6E.jpg" height="300">
 
 - Final team project for completing the Manticore Games Core Game Dev Bootcamp, using Lua and proprietary Core game engine
@@ -22,7 +34,7 @@
   
 [Link to play (required Core launcher)](https://www.coregames.com/games/19e189/dust-souls)
 
-## <b>AntiFragile</b> (January - July 2020)
+## <b>AntiFragile</b> (January - July 2020) (Unity3D, Unreal Engine 4)
 ![](https://i.ytimg.com/vi/TSLQMmQc14k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPN1i_liVxtwqDOBqQdNP8sHiiEw)
 
 - Game based around destructible environments, initially developed in Unity3D and later partly reimplemented in Unreal 4
@@ -32,7 +44,7 @@
   
 [Gitlab backup of development repo](https://gitlab.com/ana-damnjanovic/unity-backup)
 
-## <b>CellMates</b> (January - April 2019)
+## <b>CellMates</b> (January - April 2019) (Unity3D, C#)
 <img src="https://img.itch.zone/aW1nLzE5OTkyMDMucG5n/original/uoKzfS.png" height="300">
 
 - Team project for University of Toronto's Game Design and Development course using Unity3D
