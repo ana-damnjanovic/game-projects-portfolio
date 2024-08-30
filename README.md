@@ -27,7 +27,7 @@
 <img src="https://manticoreprod-ms.azureedge.net/screenshots/19e189674c924e389097ddc795b1b563_3_nupNxlSQDGQOkNyZINQm1_EBA6ECA0D39A0CA8BAECC3578B81EB83065D9A6E.jpg" height="300">
 
 - Final team project for completing the Manticore Games Core Game Dev Bootcamp, using Lua and proprietary Core game engine
-- We made a puzzle game with some hidden collectibles
+- We made a puzzle game based around the idea of growing/shrinking the player character, with some hidden collectibles to reward exploration
 - I implemented UI and data persistence logic which lets the players get hidden collectibles and show them off in their home base
   
 [Youtube video of a playthrough](https://www.youtube.com/watch?v=-ZiNRAaijUc&feature=youtu.be)
