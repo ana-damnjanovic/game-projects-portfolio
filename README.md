@@ -1,11 +1,25 @@
 # Personal Projects
 
+## <b>Hamster Hooky</b> (2 day game jam, September 2024) (Unity3D, C#)
+![](https://github.com/user-attachments/assets/ba96a6b4-9d2a-4126-b126-212962b667c8)
+
+- A 5-person team submission for Wholesome Game Jam 2024, following the theme "Handmade" with the cardboard cutout art style!
+- Build up your vehicle by sticking pieces on so all the hamsters can go for a ride!
+- The game is playable, but we are missing a transition animation between levels for now
+- I was the only programmer on this team
+  - Key programming aspects: organizing the level structure so we can easily change what item/message displays each time, and resetting the game when the hamsters fall
+  
+[itch.io page](https://echiem.itch.io/hamster-hooky)
+  
+[Github repo](https://github.com/ana-damnjanovic/wholesome-jam-2024)
+
 ## <b>Forever Nugget</b> (3 day game jam, August 2024) (Unity3D, C#)
 ![](https://img.itch.zone/aW1hZ2UvMjg5MzcxOS8xNzMwODM3Ni5qcGc=/original/rtmiqc.jpg)
 
 - Made with a team of 4 other women for Women Game Jam 2024!
 - A silly point and click game about trying to escape an annoying infinite loop
 - I was the sole programmer for this project
+  - the most important programming aspects were the UI, mouse input detection, and detecting/tracking the player's achievements 
   
 [itch.io page](https://chimera-crafts.itch.io/forever-nugget)
   
