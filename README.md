@@ -8,6 +8,10 @@
 - Key programming aspects:
   - Game state machine and organization,
   - Level and Level Effect data structures which allow designers to easily tweak each level's difficulty
+ 
+  [itch.io page](https://echiem.itch.io/jittery-delivery)
+
+  [Github repo](https://github.com/ana-damnjanovic/TOjam2025)
 
 ## <b>Hamster Hooky</b> (2 day game jam, September 2024) (Unity3D, C#)
 ![](https://github.com/user-attachments/assets/ba96a6b4-9d2a-4126-b126-212962b667c8)
