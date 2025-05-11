@@ -1,5 +1,15 @@
 # Personal Projects
 
+## <b>IN PROGRESS: Jittery Delivery</b> (3 day game jam, TOJam 2025) (Unity3D, C#)
+![]()
+
+- Created for TOJam2025 with 3 other devs, where the theme was "The More You Have, The Worse It Gets"!
+- Try to get through an 8 hour shift while getting progressively more caffeinated
+- I programmed everything on this project
+- Key programming aspects:
+  - Game state machine and organization,
+  - Level and Level Effect data structures which allow designers to easily tweak each level's difficulty
+
 ## <b>Hamster Hooky</b> (2 day game jam, September 2024) (Unity3D, C#)
 ![](https://github.com/user-attachments/assets/ba96a6b4-9d2a-4126-b126-212962b667c8)
 
