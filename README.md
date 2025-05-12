@@ -5,6 +5,7 @@
 
 - Created for TOJam2025 with 3 other devs, where the theme was "The More You Have, The Worse It Gets"!
 - Try to get through an 8 hour shift without dropping the food, all while getting progressively more caffeinated
+- I was the lead programmer on this project
 - Key programming aspects:
   - Game state machine and organization,
   - Level and Level Effect data structures which allow designers to easily tweak each level's difficulty
